@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/steezy2401/steezy2401/cover.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/steezy2401/steezy2401/steezy2401/cover.png "Header")](https://some-url.dev/)
 
 ## Hello there! 👋
 
