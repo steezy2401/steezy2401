@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-My name is Ivan Ilichev and I am a web developer from Russia. I am currently living in Finland 🇫🇮, studying at [JAMK University of Applied Sciences](https://www.jamk.fi/en) on ICT bachelor degree.
+My name is Ivan Ilichev and I am a web developer from Russia. I am currently living in Finland, studying at [JAMK University of Applied Sciences](https://www.jamk.fi/en) on ICT bachelor degree.
 
 ## 🔧 Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
