@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Technologies
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--
 **steezy2401/steezy2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
