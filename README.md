@@ -2,7 +2,16 @@
 
 ## Hello there! 👋
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/steezy2401)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steezy2401/)
+
 My name is Ivan Ilichev and I am a web developer from Russia. I am currently living in Finland, studying at [JAMK University of Applied Sciences](https://www.jamk.fi/en) on ICT bachelor degree.
+
+- 🔭 I’m currently working on [JetNotes](https://github.com/steezy2401/JetNotes)
+
+- 🌱 I’m currently learning **React**
+
+
 
 ## 🔧 My Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
