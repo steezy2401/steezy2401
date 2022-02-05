@@ -7,9 +7,9 @@
 
 My name is Ivan Ilichev and I am a web developer from Russia. I am currently living in Finland, studying at [JAMK University of Applied Sciences](https://www.jamk.fi/en) on ICT bachelor degree.
 
-- 🔭 I’m currently working on [DofTrack](https://github.com/steezy2401/DofTrack)
+- 🔭 I’m currently working on [LissaSoap](https://github.com/steezy2401/LissaSoap)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 
 
